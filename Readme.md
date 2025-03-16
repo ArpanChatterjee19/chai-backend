@@ -1,3 +1,1 @@
-# Chai aur backend series
-
-This repository is made follwing the chai aur backend series on Chai aur code youtube channel
+Video streaming and library app backend
